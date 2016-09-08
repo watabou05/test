@@ -2,3 +2,4 @@
 かきくけこ
 さしすせそ
 abc
+class void yas
